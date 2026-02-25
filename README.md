@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2b6cb0&height=200&section=header&text=Renatho%20Moura&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Especialista%20em%20Soluções%20Digitais&descSize=22&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:00d4ff&height=250&section=header&text=Renatho%20Moura&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20|%20UI/UX%20Design&descSize=20&descAlign=60&descAlignY=60" width="100%" />
 
   <br>
 
