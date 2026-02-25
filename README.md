@@ -65,6 +65,7 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas e cent
 ---
 
 <div align="center">
-  <p>Construído com ☕ e ❤️ por Renatho.</p>
+  <p>Built with 
+    <img src="https://img.shields.io/badge/Gemini-T2E1E?style=flat&logo=gemini&logoColor=white" alt="Gemini" /> and ❤️ by Renatho.</p>
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=blue&style=flat-square" alt="Contador" />
 </div>
