@@ -66,6 +66,7 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas e cent
 
 <div align="center">
   <p>Built with 
-    <img src="https://img.shields.io/badge/Gemini-T2E1E?style=flat&logo=gemini&logoColor=white" alt="Gemini" /> and ❤️ by Renatho.</p>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=gemini&logoColor=white" alt="Gemini Blue" /><img src="https://img.shields.io/badge/-EA4335?style=flat" alt="Google Red" /><img src="https://img.shields.io/badge/-FBBC05?style=flat" alt="Google Yellow" /><img src="https://img.shields.io/badge/-34A853?style=flat" alt="Google Green" /> 
+and ❤️ by Renatho.</p>
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=blue&style=flat-square" alt="Contador" />
 </div>
