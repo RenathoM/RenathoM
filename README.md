@@ -5,16 +5,16 @@
 
   <h3>Desenvolvedor Front-End | Apaixonado por Tecnologia, Inovação e Interfaces Modernas 🚀</h3>
 
-  <a href="https://www.linkedin.com/in/renatho-moura-64aba8319">
+  <a href="https://www.linkedin.com/in/renatho-moura-64aba8319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVWCgPckrZmJLGpzHjRGDzxwZxBwJlbFdNvCFPZxbPdPnJszBHwQDbxZbftFdSMqvLrZlV">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://500px.com/p/renathom">
+  <a href="https://500px.com/p/renathom" target="_blank">
     <img src="https://img.shields.io/badge/Portifólio-2b6cb0?style=flat&logo=polywork&logoColor=white" alt="Fotos">
   </a>
-  <a href="https://discord.com/users/566300801476329472">
+  <a href="https://discord.com/users/566300801476329472" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
