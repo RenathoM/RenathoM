@@ -5,10 +5,10 @@
 
   <h3>Desenvolvedor Front-End | Apaixonado por Tecnologia, Inovação e Interfaces Modernas 🚀</h3>
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/renatho-moura-64aba8319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:rmvaladares2007@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVWCgPckrZmJLGpzHjRGDzxwZxBwJlbFdNvCFPZxbPdPnJszBHwQDbxZbftFdSMqvLrZlV">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://500px.com/p/renathom" target="_blank">
