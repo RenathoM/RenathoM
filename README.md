@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://500px.com/p/renathom" target="_blank">
-    <img src="https://img.shields.io/badge/Fotos-2b6cb0?style=flat&logo=polywork&logoColor=white" alt="Fotos">
+    <img src="https://img.shields.io/badge/Portifólio-2b6cb0?style=flat&logo=polywork&logoColor=white" alt="Fotos">
   </a>
   <a href="https://discord.com/users/566300801476329472 target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
