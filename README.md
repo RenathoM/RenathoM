@@ -14,7 +14,7 @@
   <a href="https://500px.com/p/renathom" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-2b6cb0?style=flat&logo=polywork&logoColor=white" alt="Fotos">
   </a>
-  <a href="https://discord.com/users/impulssivo target="_blank">
+  <a href="https://discord.com/users/566300801476329472 target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
