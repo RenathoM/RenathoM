@@ -6,13 +6,13 @@
   <h3>Desenvolvedor Front-End | Apaixonado por Tecnologia, Inovação e Interfaces Modernas 🚀</h3>
 
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:rmvaladares2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="LINK_DO_SEU_PORTFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%232b6cb0?style=for-the-badge&logo=Web&logoColor=white" alt="Portfólio">
+  <a href="https://500px.com/p/renathom" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-2b6cb0?style=flat&logo=polywork&logoColor=white" alt="Fotos">
   </a>
 </div>
 
