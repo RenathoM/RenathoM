@@ -14,19 +14,22 @@
   <a href="https://500px.com/p/renathom" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-2b6cb0?style=flat&logo=polywork&logoColor=white" alt="Fotos">
   </a>
+  <a href="https://discord.com/users/impulssivo" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
+</a>
 </div>
 
 <br>
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor júnior focado em criar aplicações web interativas, responsivas e centradas na experiência do usuário. Tenho facilidade em aprender novas ferramentas e adoro transformar ideias em código limpo e eficiente.
+Sou um desenvolvedor júnior focado em criar aplicações web interativas e centradas na experiência do usuário utilizando HTML, CSS e JavaScript. Tenho um forte interesse por UI/UX e também trago na bagagem experiência na criação de jogos para Roblox. Além do mundo do código, sou fotógrafo profissional e freelancer desde abril de 2021. Essa combinação me permite unir a lógica da programação com um olhar criativo e apurado para o design visual.
 
-- 🔭 **Atualmente trabalhando em:** Projetos pessoais para aprimorar minhas habilidades em Front-End.
-- 🌱 **Atualmente aprendendo:** React.js, Next.js e animações avançadas na web.
-- 👯 **Aberto para colaborar em:** Projetos Open Source e hackathons.
-- 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript e como centralizar uma `div`!
-- ⚡ **Curiosidade:** Quando não estou codando, provavelmente estou [insira um hobby, ex: jogando videogame, lendo sobre tecnologia, etc].
+- 🔭 **Atualmente trabalhando em:** Projetos pessoais focados em Front-End, design de interfaces e atuações como fotógrafo freelancer.
+- 🌱 **Atualmente cursando:** O 3º ano do Ensino Médio integrado ao curso de Desenvolvimento de Sistemas. (Possuo Inglês Avançado e sou movido pelo aprendizado contínuo!)
+- 👯 **Aberto para colaborar em:** Projetos web (Open Source), criação de interfaces (UI/UX) e desenvolvimento de jogos/experiências.
+- 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript, automação de bots no Discord e administração de companias, conceitos de design e dicas de fotografia profissional!
+- ⚡ **Curiosidade:** Sou um explorador por natureza! Quando não estou na frente do PC codando, provavelmente estou descobrindo novos lugares, explorando praias, cidades, curtindo shows ou cobrindo eventos com a minha câmera. Tudo o que envolve novas experiências e aprendizados me atrai.
 
 <br>
 
