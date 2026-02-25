@@ -47,7 +47,7 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas, respo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RenathoM&show_icons=true&theme=tokyonight&border_radius=10" width="48%" alt="Estatísticas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atlas&theme=tokyonight&border_radius=10" width="48%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenathoM&theme=tokyonight&border_radius=10" width="48%" alt="Streak" />
 </div>
 
 <br>
