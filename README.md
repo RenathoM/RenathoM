@@ -58,15 +58,15 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas e cent
 
 *Abaixo estão alguns dos projetos que mais gostei de construir:*
 
-1. 💻 **[Nome do Projeto 1](Link_do_repositorio_1)** - *Breve descrição de uma linha sobre o que o projeto faz. Ex: Um currículo web interativo com Dark Mode.*
-2. 📱 **[Nome do Projeto 2](Link_do_repositorio_2)** - *Breve descrição de uma linha sobre o que o projeto faz.*
-3. 🎮 **[Nome do Projeto 3](Link_do_repositorio_3)** - *Breve descrição de uma linha sobre o que o projeto faz.*
+1. 💻 **[Auction-System](https://github.com/RenathoM/Auction-System)** - *A Discord bot for live auctions with support for bidding using diamonds (💎) and/or items. [Roblox - P99 System]*
+2. 📱 **[AssetsMenager3.0](Link_do_repositorio_2)** - *Beta teste de um projeto bem sucedido para uma experiencia autoral Roblox, e integração de comunicações para funcionalidades.*
+3. 🎮 **[CowMergeSystem_Developmen](https://github.com/RenathoM/CowMergeSystem_Development)** - *Criação em desenvolvimento de jogo na plataforma Polytoria.*
 
 ---
 
 <div align="center">
   <p>
-<img width="30" height="30" alt="gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkc2JzY25heTAxYjFyeGJvZHhhcHV5cnFzNncxNWR4eGlyY2U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuQmhmAAdJFLi/giphy.gif" />
+<img width="70" height="70" alt="gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkc2JzY25heTAxYjFyeGJvZHhhcHV5cnFzNncxNWR4eGlyY2U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuQmhmAAdJFLi/giphy.gif" />
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=RenathoM&label=Views&color=blue&style=flat-square" alt="Contador" />
