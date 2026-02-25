@@ -14,9 +14,9 @@
   <a href="https://500px.com/p/renathom" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-2b6cb0?style=flat&logo=polywork&logoColor=white" alt="Fotos">
   </a>
-  <a href="https://discord.com/users/impulssivo" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
-</a>
+  <a href="https://discord.com/users/impulssivo target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 <br>
@@ -28,7 +28,7 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas e cent
 - 🔭 **Atualmente trabalhando em:** Projetos pessoais focados em Front-End, design de interfaces e atuações como fotógrafo freelancer.
 - 🌱 **Atualmente cursando:** O 3º ano do Ensino Médio integrado ao curso de Desenvolvimento de Sistemas. (Possuo Inglês Avançado e sou movido pelo aprendizado contínuo!)
 - 👯 **Aberto para colaborar em:** Projetos web (Open Source), criação de interfaces (UI/UX) e desenvolvimento de jogos/experiências.
-- 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript, automação de bots no Discord e administração de companias, conceitos de design e dicas de fotografia profissional!
+- 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript, automação de bots no Discord e administração de grandes servidores, conceitos de design e dicas de fotografia profissional!
 - ⚡ **Curiosidade:** Sou um explorador por natureza! Quando não estou na frente do PC codando, provavelmente estou descobrindo novos lugares, explorando praias, cidades, curtindo shows ou cobrindo eventos com a minha câmera. Tudo o que envolve novas experiências e aprendizados me atrai.
 
 <br>
