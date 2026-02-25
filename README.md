@@ -59,7 +59,7 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas e cent
 *Abaixo estão alguns dos projetos que mais gostei de construir:*
 
 1. 💻 **[Auction-System](https://github.com/RenathoM/Auction-System)** - *A Discord bot for live auctions with support for bidding using diamonds (💎) and/or items. [Roblox - P99 System]*
-2. 📱 **[AssetsMenager3.0](Link_do_repositorio_2)** - *Beta teste de um projeto bem sucedido para uma experiencia autoral Roblox, e integração de comunicações para funcionalidades.*
+2. 📱 **[AssetsMenager3.0](Link_do_repositorio_2)** - *Projeto bem sucedido para uma experiencia autoral Roblox, e integração de comunicações para funcionalidades.*
 3. 🎮 **[CowMergeSystem_Developmen](https://github.com/RenathoM/CowMergeSystem_Development)** - *Criação em desenvolvimento de jogo na plataforma Polytoria.*
 
 ---
