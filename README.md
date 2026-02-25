@@ -5,7 +5,7 @@
 
   <h3>Desenvolvedor Front-End | Apaixonado por Tecnologia, Inovação e Interfaces Modernas 🚀</h3>
 
-  <a href="https://www.linkedin.com/in/renatho-moura-64aba8319" target="_blank">
+  <a href="https://www.linkedin.com/in/renatho-moura-64aba8319">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVWCgPckrZmJLGpzHjRGDzxwZxBwJlbFdNvCFPZxbPdPnJszBHwQDbxZbftFdSMqvLrZlV">
