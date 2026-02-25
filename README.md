@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b6cb0&height=200&section=header&text=Renatho%20Moura!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2b6cb0&height=200&section=header&text=Renatho%20Moura&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Especialista%20em%20Soluções%20Digitais&descSize=22&descAlign=50" width="100%" />
 
   <br>
 
