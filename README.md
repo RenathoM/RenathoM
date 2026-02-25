@@ -66,6 +66,6 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas e cent
 
 <div align="center">
   <p>Built with 
-    <img src="https://img.shields.io/badge/Gemini-T2E1E?type=waving&color=auto&customColorList=0,2,4,5,7,8,10&height=220&section=header&text=Renatho%20Moura&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer&descSize=20&descAlignY=60" alt="Gemini" /> and ❤️ by Renatho.</p>
+    <img src="https://img.shields.io/badge/Gemini-T2E1E?style=flat&logo=gemini&logoColor=darkblue" alt="Gemini" /> and ❤️ by Renatho.</p>
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=blue&style=flat-square" alt="Contador" />
 </div>
