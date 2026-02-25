@@ -66,7 +66,7 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas e cent
 
 <div align="center">
   <p> Built by Renatho 
-    <img width="250" height="280" alt="image" src="https://github.com/user-attachments/assets/14205314-af69-4d9a-ac76-022a0ac4b63c" />
+    <img width="25" height="25" alt="gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkc2JzY25heTAxYjFyeGJvZHhhcHV5cnFzNncxNWR4eGlyY2U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuQmhmAAdJFLi/giphy.gif" />
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=blue&style=flat-square" alt="Contador" />
