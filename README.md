@@ -33,12 +33,12 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas, respo
 ## 🛠️ Who is Renatho? (Tech Stack)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" href="https://www.figma.com/files/team/1229779345148720597/user/1229779338728003997?fuid=1229779338728003997" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 <br>
@@ -46,15 +46,8 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas, respo
 ## 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" alt="Estatísticas do GitHub" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" width="48%" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&border_radius=10" width="48%" alt="Estatísticas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&border_radius=10" width="48%" alt="Streak" />
 </div>
 
 <br>
@@ -71,5 +64,5 @@ Sou um desenvolvedor júnior focado em criar aplicações web interativas, respo
 
 <div align="center">
   <p>Construído com ☕ e ❤️ por Renatho.</p>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=blue&style=flat" alt="Contador de Views" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=blue&style=flat-square" alt="Contador" />
 </div>
